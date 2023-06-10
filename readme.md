@@ -20,7 +20,7 @@ The Library Management System includes the following features:
 
 To run the Library Management System, you need to have the following software installed:
 
-- Java Development Kit (JDK) 8 or later
+- Java Development Kit (JDK) 17 or later
 - Apache Maven
 
 ## Getting Started
